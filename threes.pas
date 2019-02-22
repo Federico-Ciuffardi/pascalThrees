@@ -639,6 +639,6 @@ REPEAT
   until (imp = 'q') OR TerminaJuego(board);
 DISPLAY;
 writeln;
-write_until_Keypressed('Points: ' + inttostr(puntaje(board)));
-writeln('Points: ' + inttostr(puntaje(board)))
+write_until_Keypressed('GAME OVER');
+
 END.
