@@ -7,9 +7,9 @@ Pascal implementation of the game [Threes](https://www.hiddenvariable.com/threes
 * Unix based OS
 
 ## How to use
-* Download the lastest pascalRPG and run.sh from the [releases](https://github.com/Federico-Ciuffardi/pascalRPG/releases)
-* Move them both (they must be on the same folder) to any folder that you desire (or don't move them at all)
-* Execute the run.sh:
+* Download the lastest threes.tar.gz from the [releases](https://github.com/Federico-Ciuffardi/pascalThrees/releases)
+* Extract the contents on a folder (threes and run.sh)
+* Execute the run.sh in the terminal with:
 ```
 ./run.sh
 ```
@@ -22,7 +22,7 @@ Pascal implementation of the game [Threes](https://www.hiddenvariable.com/threes
 ```
 
 ## Versioning
-Using [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases](https://github.com/Federico-Ciuffardi/IOSU/releases) 
+Using [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases](https://github.com/Federico-Ciuffardi/pascalThrees/releases) 
 
 ## Authors
 * Federico Ciuffardi
